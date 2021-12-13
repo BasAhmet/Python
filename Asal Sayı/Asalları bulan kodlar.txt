@@ -1,0 +1,1 @@
+Girdiğiniz sayının asal mı olduğunu veya belli bir aralıktaki asal sayıları bulduran python kodları.

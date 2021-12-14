@@ -1,4 +1,4 @@
-# Bu Problem Kombinasyon Yardımıyla Çözülebilir.
+# Bu Problem Tekrarlı Permütasyon Yardımıyla Çözülebilir.
 from math import factorial
 dikey = 20
 yatay = 20

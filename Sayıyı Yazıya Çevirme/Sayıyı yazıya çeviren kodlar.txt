@@ -1,0 +1,1 @@
+6 basamağa kadar girdiğiniz sayıyı yazı olarak verir.
